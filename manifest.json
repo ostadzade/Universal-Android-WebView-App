@@ -1,7 +1,7 @@
 {
   "name": "Universal Android WebView App",
   "short_name": "WebViewApp",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
